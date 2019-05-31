@@ -1,0 +1,1 @@
+export MONGODB_URI='mongodb+srv://shortenurl_user:shortenurl@cluster0-oiv14.mongodb.net/test?retryWrites=true&w=majority'
